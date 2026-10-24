@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>Solstice.Pak</AssemblyName>
+    <RootNamespace>Solstice.Pak</RootNamespace>
+    <Description>Minimal writer/reader for the UE .pak variant used by KARDS (magic 0x5A6F12E1, version 3).</Description>
+  </PropertyGroup>
+</Project>

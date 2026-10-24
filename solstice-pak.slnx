@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Solstice.Pak/Solstice.Pak.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Solstice.Pak.Verify/Solstice.Pak.Verify.csproj" />
+  </Folder>
+</Solution>
